@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menuitem_edit">Edit</string>
+    <string name="menuitem_delete">Delete</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="delete_text">Delete</string>
+    <string name="confirm_title">Are You Sure?</string>
+    <string name="confirm_message">This will permanently delete the item</string>
+
+</resources>
